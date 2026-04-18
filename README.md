@@ -82,6 +82,7 @@ python embedding/embed_chunks.py
 python qa/generate_answer.py
 
 streamlit run app/streamlit_app.py
+```
 
 ### Example Queries
 What is the inflation rate in Egypt?
@@ -89,7 +90,7 @@ What are the main economic challenges?
 What is GDP growth?
 
 
-###Output
+### Output
 Retrieved context
 Generated answer
 Source pages
